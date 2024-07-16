@@ -1,1 +1,2 @@
-
+# This project does not require any external dependencies beyond the standard Python library.
+# All necessary functionality is provided by Python's built-in modules.
