@@ -17,10 +17,6 @@ elif op == "/":
     print(num1 / num2)
 elif op == "*":
     print(num1 * num2)
-else: #print('Invaild Operater')
+else: 
     print('Invaild Operater')
-#print('This statement is always executed')
-
-# Done!!!.
-
 
