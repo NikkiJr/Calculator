@@ -1,4 +1,4 @@
-# Project Name
+# Calculator
 
 ![License](https://img.shields.io/github/license/username/repository)
 ![Issues](https://img.shields.io/github/issues/username/repository)
