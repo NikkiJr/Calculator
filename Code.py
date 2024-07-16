@@ -3,10 +3,15 @@ while True:
         num1 = float(input("Enter a number: "))
         break
     except Exception:
-        print('type a float number')
+        print('Type a float number!')
 
 op = input("Enter a operator: ") # get the input for operator
-num2 = float(input("Enter another number: "))
+while True:
+    try:
+        num2 = float(input("Enter a number: "))
+        break
+    except Exception:
+        print('Type a float number!')
 
 
 if op == "+":
@@ -18,5 +23,5 @@ elif op == "/":
 elif op == "*":
     print(num1 * num2)
 else: 
-    print('Invaild Operater')
+    print('!!Invaild Operater!!')
 
